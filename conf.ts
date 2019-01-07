@@ -12,8 +12,13 @@ export let config: Config = {
 
     },
 
-    specs:["./some_files/async_actions.js"],
+    specs:["./some_files/olx_scenario.js"],
 
     //seleniumAddress: "http://localhost:4444/wd/hub"
-    directConnect: true
+    directConnect: true,
+    jasmineNodeOpts: {
+        showColors: true,
+        defaultTimeoutInterval: 100000,
+        isVerbose: true
+    }
 };

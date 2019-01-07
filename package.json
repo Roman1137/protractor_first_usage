@@ -10,6 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "@types/jasmine": "^3.3.5",
+    "chai": "^4.2.0",
+    "chai-http": "^4.2.1",
     "typescript": "^3.2.2"
   },
   "devDependencies": {

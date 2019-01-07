@@ -1,10 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/some_files/sample_ts.ts" line="29" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a240a4d-68cc-4bf7-9d3a-39278725e1a3" name="Default Changelist" comment="" />
+    <list default="true" id="0a240a4d-68cc-4bf7-9d3a-39278725e1a3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/some_files/olx_scenario.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/some_files/selectors.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf.js" beforeDir="false" afterPath="$PROJECT_DIR$/conf.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/conf.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conf.ts" beforeDir="false" afterPath="$PROJECT_DIR$/conf.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/some_files/async_actions.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/some_files/async_actions.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/some_files/async_actions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/some_files/async_actions.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/some_files/sample_ts.js" beforeDir="false" afterPath="$PROJECT_DIR$/some_files/sample_ts.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/some_files/sample_ts.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/some_files/sample_ts.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/some_files/sample_ts.ts" beforeDir="false" afterPath="$PROJECT_DIR$/some_files/sample_ts.ts" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -18,32 +29,37 @@
     <session id="767047849">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.15" value="2" />
-          <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.2" value="3" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="gitignore" value="2" />
-          <entry key="js" value="24" />
-          <entry key="json" value="20" />
+          <entry key="gitignore" value="3" />
+          <entry key="js" value="28" />
+          <entry key="json" value="22" />
           <entry key="map" value="1" />
+          <entry key="md" value="1" />
           <entry key="png" value="2" />
-          <entry key="ts" value="21" />
+          <entry key="protractor" value="1" />
+          <entry key="ts" value="46" />
           <entry key="tsc" value="2" />
+          <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="2" />
-          <entry key="JSON" value="8" />
-          <entry key="JavaScript" value="26" />
-          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="JSON" value="10" />
+          <entry key="JavaScript" value="31" />
+          <entry key="PLAIN_TEXT" value="5" />
           <entry key="SourceMap" value="1" />
-          <entry key="TypeScript" value="21" />
+          <entry key="TypeScript" value="46" />
           <entry key="tsconfig" value="12" />
         </counts>
       </usages-collector>
@@ -52,7 +68,7 @@
           <entry key="gitignore" value="13" />
           <entry key="js" value="5" />
           <entry key="json" value="344" />
-          <entry key="ts" value="1569" />
+          <entry key="ts" value="3070" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -60,42 +76,24 @@
           <entry key="JSON" value="175" />
           <entry key="JavaScript" value="5" />
           <entry key="PLAIN_TEXT" value="13" />
-          <entry key="TypeScript" value="1569" />
+          <entry key="TypeScript" value="3070" />
           <entry key="tsconfig" value="169" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
-          <entry key="TypeScriptServerServiceImpl" value="4" />
+          <entry key="TypeScriptServerServiceImpl" value="8" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/conf.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/some_files/async_actions.ts">
+        <entry file="file://$PROJECT_DIR$/some_files/olx_scenario.ts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node_modules/protractor/built/expectedConditions.d.ts">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2346">
-              <caret line="139" column="64" selection-start-line="139" selection-start-column="56" selection-end-line="139" selection-end-column="64" />
+            <state relative-caret-position="255">
+              <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
             </state>
           </provider>
         </entry>
@@ -104,7 +102,34 @@
         <entry file="file://$PROJECT_DIR$/node_modules/protractor/built/browser.d.ts">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="17" column="37" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="37" />
+              <caret line="184" column="4" selection-start-line="184" selection-start-column="4" selection-end-line="184" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node_modules/protractor/built/expectedConditions.d.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="139" column="4" selection-start-line="139" selection-start-column="4" selection-end-line="139" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/conf.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -123,6 +148,9 @@
       <find>sou</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -134,9 +162,11 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/some_files/sample_ts.js" />
         <option value="$PROJECT_DIR$/tsconfig.json" />
+        <option value="$PROJECT_DIR$/some_files/async_actions.ts" />
+        <option value="$PROJECT_DIR$/some_files/selectors.ts" />
         <option value="$PROJECT_DIR$/some_files/sample_ts.ts" />
         <option value="$PROJECT_DIR$/conf.ts" />
-        <option value="$PROJECT_DIR$/some_files/async_actions.ts" />
+        <option value="$PROJECT_DIR$/some_files/olx_scenario.ts" />
       </list>
     </option>
   </component>
@@ -155,11 +185,12 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1720" />
-    <option name="y" value="-340" />
-    <option name="width" value="983" />
-    <option name="height" value="521" />
+    <option name="x" value="1358" />
+    <option name="y" value="-319" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -245,43 +276,47 @@
       <workItem from="1546552936978" duration="36000" />
       <workItem from="1546688593929" duration="9133000" />
       <workItem from="1546712126166" duration="11000" />
+      <workItem from="1546718162809" duration="15000" />
+      <workItem from="1546725174835" duration="766000" />
+      <workItem from="1546778271107" duration="7124000" />
+      <workItem from="1546858689005" duration="7313000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Protractor - 2019.01.05 at 18h 02m 08s.xml">
+    <history-entry file="Protractor - 2019.01.07 at 13h 28m 16s.xml">
       <configuration name="Protractor" configurationId="JavaScriptTestRunnerProtractor" />
     </history-entry>
-    <history-entry file="Protractor - 2019.01.05 at 18h 02m 31s.xml">
+    <history-entry file="Protractor - 2019.01.07 at 13h 29m 32s.xml">
       <configuration name="Protractor" configurationId="JavaScriptTestRunnerProtractor" />
     </history-entry>
-    <history-entry file="Protractor - 2019.01.05 at 18h 03m 04s.xml">
+    <history-entry file="Protractor - 2019.01.07 at 13h 30m 17s.xml">
       <configuration name="Protractor" configurationId="JavaScriptTestRunnerProtractor" />
     </history-entry>
-    <history-entry file="Protractor - 2019.01.05 at 18h 03m 30s.xml">
+    <history-entry file="Protractor - 2019.01.07 at 13h 30m 41s.xml">
       <configuration name="Protractor" configurationId="JavaScriptTestRunnerProtractor" />
     </history-entry>
-    <history-entry file="Protractor - 2019.01.05 at 18h 06m 49s.xml">
+    <history-entry file="Protractor - 2019.01.07 at 13h 59m 04s.xml">
       <configuration name="Protractor" configurationId="JavaScriptTestRunnerProtractor" />
     </history-entry>
-    <history-entry file="Protractor - 2019.01.05 at 18h 07m 09s.xml">
+    <history-entry file="Protractor - 2019.01.07 at 14h 00m 29s.xml">
       <configuration name="Protractor" configurationId="JavaScriptTestRunnerProtractor" />
     </history-entry>
-    <history-entry file="Protractor - 2019.01.05 at 18h 08m 21s.xml">
+    <history-entry file="Protractor - 2019.01.07 at 14h 01m 55s.xml">
       <configuration name="Protractor" configurationId="JavaScriptTestRunnerProtractor" />
     </history-entry>
-    <history-entry file="Protractor - 2019.01.05 at 18h 08m 36s.xml">
+    <history-entry file="Protractor - 2019.01.07 at 14h 07m 25s.xml">
       <configuration name="Protractor" configurationId="JavaScriptTestRunnerProtractor" />
     </history-entry>
-    <history-entry file="Protractor - 2019.01.05 at 18h 09m 06s.xml">
+    <history-entry file="Protractor - 2019.01.07 at 14h 08m 27s.xml">
       <configuration name="Protractor" configurationId="JavaScriptTestRunnerProtractor" />
     </history-entry>
-    <history-entry file="Protractor - 2019.01.05 at 18h 12m 52s.xml">
+    <history-entry file="Protractor - 2019.01.07 at 14h 08m 50s.xml">
       <configuration name="Protractor" configurationId="JavaScriptTestRunnerProtractor" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18918000" />
+    <option name="totallyTimeSpent" value="34136000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-319" width="1936" height="1056" extended-state="6" />
@@ -291,15 +326,15 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32879046" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.15684094" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.30494037" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.10233593" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.22316866" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="TypeScript" order="9" weight="0.32879046" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.25212947" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.25139043" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -337,6 +372,14 @@
         <option value="$PROJECT_DIR$/some_files/async_actions.js" />
         <option value="C:/webdriverIODemo2/tests/async_actions.js.map" />
         <option value="C:/webdriverIODemo2/tests/async_actions.js" />
+        <option value="$PROJECT_DIR$/some_files/selectors.js.map" />
+        <option value="$PROJECT_DIR$/some_files/selectors.js" />
+        <option value="C:/webdriverIODemo2/tests/selectors.js.map" />
+        <option value="C:/webdriverIODemo2/tests/selectors.js" />
+        <option value="$PROJECT_DIR$/some_files/olx_scenario.js" />
+        <option value="$PROJECT_DIR$/some_files/olx_scenario.js.map" />
+        <option value="C:/webdriverIODemo2/tests/olx_scenario.js" />
+        <option value="C:/webdriverIODemo2/tests/olx_scenario.js.map" />
       </list>
     </option>
   </component>
@@ -347,14 +390,10 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/some_files/sample_ts.ts</url>
-          <line>25</line>
+          <url>file://$PROJECT_DIR$/some_files/olx_scenario.ts</url>
+          <line>37</line>
+          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="javascript">
-          <url>file://$PROJECT_DIR$/some_files/async_actions.ts</url>
-          <line>21</line>
-          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -370,13 +409,6 @@
     <entry file="file://$PROJECT_DIR$/some_files/SampleTS.js" />
     <entry file="file://$PROJECT_DIR$/some_files/SampleTS.ts" />
     <entry file="file://$PROJECT_DIR$/outputjs/sample_ts.js" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/protractor/built/config.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="93">
@@ -405,13 +437,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="30" lean-forward="true" selection-start-line="6" selection-start-column="30" selection-end-line="6" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/conf.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -427,8 +452,8 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/some_files/sample_ts.js.map">
-      <provider selected="true" editor-type-id="text-editor" />
       <provider editor-type-id="sourcemapFileViewerProvider" />
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/someScreenShot.png">
       <provider selected="true" editor-type-id="images" />
@@ -451,38 +476,118 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore.txt" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/protractor/exampleTypescript/specPageObjects.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/protractor/exampleTypescript/plugins.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/protractor/exampleTypescript/confPageObjects.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/protractor/exampleTypescript/conf.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/protractor/exampleTypescript/angularPage.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/protractor/exampleTypescript/asyncAwait/conf.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/protractor/exampleTypescript/asyncAwait/README.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/protractor/bin/protractor">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/protractor/exampleTypescript/asyncAwait/spec.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/protractor/exampleTypescript/spec.ts">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/typescript/lib/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="10838" column="72" lean-forward="true" selection-start-line="10838" selection-start-column="72" selection-end-line="10838" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/some_files/selectors.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="27" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/chai-http/types/index.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="13" column="12" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/some_files/sample_ts.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+        <state relative-caret-position="306">
+          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/some_files/async_actions.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="24" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/conf.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+        <state relative-caret-position="255">
+          <caret line="21" column="23" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/protractor/built/expectedConditions.d.ts">
+    <entry file="file://$PROJECT_DIR$/node_modules/selenium-webdriver/lib/promise.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2346">
-          <caret line="139" column="64" selection-start-line="139" selection-start-column="56" selection-end-line="139" selection-end-column="64" />
+        <state relative-caret-position="228">
+          <caret line="2200" column="16" selection-start-line="2200" selection-start-column="16" selection-end-line="2200" selection-end-column="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/node_modules/protractor/built/browser.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="17" column="37" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="37" />
+          <caret line="184" column="4" selection-start-line="184" selection-start-column="4" selection-end-line="184" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/some_files/async_actions.ts">
+    <entry file="file://$PROJECT_DIR$/node_modules/protractor/built/expectedConditions.d.ts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        <state relative-caret-position="253">
+          <caret line="139" column="4" selection-start-line="139" selection-start-column="4" selection-end-line="139" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/some_files/olx_scenario.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="57" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
         </state>
       </provider>
     </entry>
